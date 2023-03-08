@@ -1,2 +1,7 @@
-# punto de corte eje x
-programa para hayar el punto de corte en el eje x de una funcion lineal 
+# punto_de_corte_eje_x
+
+implementar un programa para hallar los puntos de corte de una funcion lineal
+
+## diagrama de flujo
+
+![Diagrama de flujo](diagrama.png "Diagrama de flujo")
