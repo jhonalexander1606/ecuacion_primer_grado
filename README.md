@@ -1,2 +1,2 @@
-# ecuacion_primer_grado
-programa para desarrollar una ecuación de primer grado
+# punto de corte eje x
+programa para hayar el punto de corte en el eje x de una funcion lineal 
